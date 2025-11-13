@@ -57,3 +57,7 @@ The coefficients indicate the change in price for a one-unit increase in the fea
 `quality_High:` +1,281,416 AED
 
 `neighborhood_Palm Jumeirah:` +1,069,301 AED
+
+
+## Conclusion
+The Dubai property market is largely driven by a combination of inherent property characteristics (size) and subjective quality/location factors. Property Quality is the strongest single predictor of price premium. The developed Linear Regression model is a useful tool for predicting property prices with a respectable explanatory power ($R^2$ of 0.7258).
